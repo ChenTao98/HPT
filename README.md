@@ -1,6 +1,6 @@
 ## Hierarchical Prompt Tuning for Few-Shot Multi-Task Learning
 
-This is code for Hierarchical Prompt Tuning for Few-Shot Multi-Task Learning
+This is code for [Hierarchical Prompt Tuning for Few-Shot Multi-Task Learning](https://dl.acm.org/doi/abs/10.1145/3583780.3614913)
 
 ### Environment
 
